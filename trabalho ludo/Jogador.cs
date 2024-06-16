@@ -44,6 +44,7 @@ namespace trabalho_ludo
                 if (this.jogadas[j] == num_dado)
                 {
                     this.jogadas[j] = 0;
+                    break;
                 }
             }
 
