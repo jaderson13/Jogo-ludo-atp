@@ -175,7 +175,7 @@ namespace trabalho_ludo
                                 {
                                     for (int j = 0; j < this.casa_vitoria.Length; j++)
                                     {
-                                        if (this.casa_vitoria[j] != null)
+                                        if (this.casa_vitoria[j] == null)
                                         {
                                             this.casa_vitoria[j] = this.vet_peoes[i];
                                             peao_vitoria = true;
