@@ -104,7 +104,7 @@ namespace trabalho_ludo
             //1 jogada por vez para não precisar chamar método dentro do outro
             peao_escolhido -= 1;
             int coluna_peao, casas_iniciais_vazias = 0, index_jogada = 0;
-            int[] vet_checkpoints = { 1, 8, 21, 34, 47, 57 };
+            int[] vet_checkpoints = { 1, 9, 14, 22, 27,35,40,48,52,53,54,55,56,57};
             bool casas_iniciais_cheias = true;
             peao_vitoria = checkpoint = false;
             jogada_invalida = true;
@@ -165,7 +165,7 @@ namespace trabalho_ludo
 
                                 for (int j = 0; j < vet_checkpoints.Length; j++)
                                 {
-                                    if (coluna_peao == vet_checkpoints[i] || coluna_peao >= 52)
+                                    if (coluna_peao == vet_checkpoints[i])
                                     {
                                         checkpoint = true;
                                         break;
