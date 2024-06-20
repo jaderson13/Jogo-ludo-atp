@@ -139,9 +139,9 @@ namespace trabalho_ludo
                 {
                     for (int i = 0; i < this.vet_peoes.Length; i++)
                     {
-                        if (this.vet_peoes[i].coluna != 57)
+                        if (this.vet_peoes[i].coluna == 0)
                         {
-                            if (peao_escolhido == this.vet_peoes[i].numero && this.vet_peoes[i].coluna == 0)
+                            if (peao_escolhido == this.vet_peoes[i].numero)
                             {
                                 this.vet_peoes[i].coluna = this.vet_peoes[i].coluna++;
                                 checkpoint = true;
