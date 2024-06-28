@@ -77,7 +77,7 @@ namespace trabalho_ludo
                             {
                                 distancia = (ultimo_jogador - i) * 13;
                                 distancia = distancia < 0 ? distancia * -1 : distancia;
-                                teste = ultimo_jogador > i ? distancia + ultimo_peao_coluna : distancia - ultimo_peao_coluna;
+                                teste = ultimo_jogador > i ? ultimo_peao_coluna + distancia : ultimo_peao_coluna - distancia;
 
                                 peao_capturado_coluna = this.vet_jogadores[i].vet_peoes[j].coluna;
 
