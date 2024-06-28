@@ -82,7 +82,7 @@ namespace trabalho_ludo
         {
             checkpoint = false;
 
-            int[] vet_checkpoints = { -1, 0, 8, 13, 21, 26, 34, 39, 47, 51, 52, 53, 54, 55, 56, 57 };
+            int[] vet_checkpoints = { 0, 8, 13, 21, 26, 34, 39, 47, 51, 52, 53, 54, 55, 56, 57 };
 
             if (sair_da_casa)
             {
