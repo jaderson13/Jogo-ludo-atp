@@ -262,7 +262,7 @@ namespace trabalho_ludo
             {
                 for (int j = 0; j < this.jogadas.Length; j++)
                 {
-                    if (this.vet_peoes[i].coluna != 56)
+                    if (this.vet_peoes[i].coluna != 56  && this.jogadas[j] != 0)
                     {
                         if (this.vet_peoes[i].coluna == -1)
                         {
