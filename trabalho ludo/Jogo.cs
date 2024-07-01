@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Collections.Generic;
 using System.Linq;
@@ -79,15 +79,14 @@ namespace trabalho_ludo
 
                                 else
                                 {
-                                    diferenca = ultimo_peao_coluna - this.vet_jogadores[i].vet_peoes[j].coluna;
-                                    diferenca = diferenca > 0 ? diferenca : diferenca * -1;
                                     sub_indice = (i - ultimo_jogador) > 0 ? i - ultimo_jogador : (i - ultimo_jogador) * -1;
-
                                     if (sub_indice == 3) { distancia = 13; }
                                     else if (sub_indice == 2) { distancia = 26; }
-                                    else { distancia = 39;}
+                                    else { distancia = 39;}                  
 
-                                    if (diferenca == distancia)
+                                    teste = ultimo_jogador < i ? ultimo_peao_coluna + distancia : ultimo_peao_coluna - distancia;
+
+                                    if (teste == this.vet_jogadores[i].vet_peoes[j].coluna)
                                     {
                                         jogador_capturado = i;
                                         peao_capturado = j;
