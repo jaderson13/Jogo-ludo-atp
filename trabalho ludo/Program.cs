@@ -112,8 +112,8 @@ namespace trabalho_ludo
                                 if (captura)
                                 {
                                     jogada_extra = true;
-                                    Console.WriteLine($"\nVocê capturou o peão {peao_capturado + 1} do jogador {jogador_capturado}");
-                                    ludo.log_partida.WriteLine($"\nVocê capturou o peão {peao_capturado + 1} do jogador {jogador_capturado}");
+                                     Console.WriteLine($"\nVocê capturou o peão {peao_capturado + 1} do jogador {jogador_capturado} na posição {peao_capturado_coluna}");
+                                     ludo.log_partida.WriteLine($"\nVocê capturou o peão {peao_capturado + 1} do jogador {jogador_capturado} na posição {peao_capturado_coluna}");
                                     Console.WriteLine($"Coluna do peão que foi capturado {peao_capturado_coluna}");
                                     passar_vez = ludo.vet_jogadores[i].Jogar_dado(ref jogada_extra,ludo);
                                     ludo.Retornar_casa(jogador_capturado, peao_capturado);
