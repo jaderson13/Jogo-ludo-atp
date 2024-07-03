@@ -1,0 +1,373 @@
+﻿--Ludo--
+--Começo--
+
+Número de jogadores: 4
+
+---------------------------------------------------
+
+Turno do jogador 0
+
+
+Tirou 2
+Perdeu a vez
+
+---------------------------------------------------
+
+Turno do jogador 1
+
+
+Tirou 6
+
+Tirou 6
+
+Tirou 5
+Posição dos peões: 
+Peão 1 pos -1 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 1 moveu o peao 1, 6 casas para frente
+
+Coluna do peão movido: 0
+Posição dos peões: 
+Peão 1 pos 0 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 1 moveu o peao 1, 6 casas para frente
+
+Coluna do peão movido: 6
+Posição dos peões: 
+Peão 1 pos 6 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 1 moveu o peao 1, 5 casas para frente
+
+Coluna do peão movido: 11
+
+---------------------------------------------------
+
+Turno do jogador 2
+
+
+Tirou 6
+
+Tirou 6
+
+Tirou 1
+Posição dos peões: 
+Peão 1 pos -1 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 1, 6 casas para frente
+
+Coluna do peão movido: 0
+Posição dos peões: 
+Peão 1 pos 0 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 1, 6 casas para frente
+
+Coluna do peão movido: 6
+Posição dos peões: 
+Peão 1 pos 6 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 1, 1 casas para frente
+
+Coluna do peão movido: 7
+
+---------------------------------------------------
+
+Turno do jogador 3
+
+
+Tirou 6
+
+Tirou 6
+
+Tirou 6
+Perdeu a vez
+
+---------------------------------------------------
+
+Turno do jogador 0
+
+
+Tirou 6
+
+Tirou 3
+Posição dos peões: 
+Peão 1 pos -1 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 1, 6 casas para frente
+
+Coluna do peão movido: 0
+Posição dos peões: 
+Peão 1 pos 0 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 1, 3 casas para frente
+
+Coluna do peão movido: 3
+
+---------------------------------------------------
+
+Turno do jogador 1
+
+
+Tirou 6
+
+Tirou 6
+
+Tirou 6
+Perdeu a vez
+
+---------------------------------------------------
+
+Turno do jogador 2
+
+
+Tirou 6
+
+Tirou 6
+
+Tirou 3
+Posição dos peões: 
+Peão 1 pos 7 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 1, 6 casas para frente
+
+Coluna do peão movido: 13
+Posição dos peões: 
+Peão 1 pos 13 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 2, 6 casas para frente
+
+Coluna do peão movido: 0
+Posição dos peões: 
+Peão 1 pos 13 |Peão 2 pos 0 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 2, 3 casas para frente
+
+Coluna do peão movido: 3
+
+---------------------------------------------------
+
+Turno do jogador 3
+
+
+Tirou 1
+Perdeu a vez
+
+---------------------------------------------------
+
+Turno do jogador 0
+
+
+Tirou 6
+
+Tirou 6
+
+Tirou 2
+Posição dos peões: 
+Peão 1 pos 3 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 1, 6 casas para frente
+
+Coluna do peão movido: 9
+Posição dos peões: 
+Peão 1 pos 9 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 2, 6 casas para frente
+
+Coluna do peão movido: 0
+Posição dos peões: 
+Peão 1 pos 9 |Peão 2 pos 0 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 2, 2 casas para frente
+
+Coluna do peão movido: 2
+
+---------------------------------------------------
+
+Turno do jogador 1
+
+
+Tirou 4
+Posição dos peões: 
+Peão 1 pos 11 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 1 moveu o peao 1, 4 casas para frente
+
+Coluna do peão movido: 15
+
+---------------------------------------------------
+
+Turno do jogador 2
+
+
+Tirou 5
+Posição dos peões: 
+Peão 1 pos 13 |Peão 2 pos 3 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 1, 5 casas para frente
+
+Coluna do peão movido: 18
+
+---------------------------------------------------
+
+Turno do jogador 3
+
+
+Tirou 6
+
+Tirou 6
+
+Tirou 6
+Perdeu a vez
+
+---------------------------------------------------
+
+Turno do jogador 0
+
+
+Tirou 6
+
+Tirou 6
+
+Tirou 2
+Posição dos peões: 
+Peão 1 pos 9 |Peão 2 pos 2 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 2, 6 casas para frente
+
+Coluna do peão movido: 8
+Posição dos peões: 
+Peão 1 pos 9 |Peão 2 pos 8 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 2, 2 casas para frente
+
+Coluna do peão movido: 10
+Posição dos peões: 
+Peão 1 pos 9 |Peão 2 pos 10 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 3, 6 casas para frente
+
+Coluna do peão movido: 0
+
+---------------------------------------------------
+
+Turno do jogador 1
+
+
+Tirou 1
+Posição dos peões: 
+Peão 1 pos 15 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 1 moveu o peao 1, 1 casas para frente
+
+Coluna do peão movido: 16
+
+Você capturou o peão 2 do jogador 2 na posição 3
+
+Tirou 6
+
+Tirou 5
+Posição dos peões: 
+Peão 1 pos 16 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 1 moveu o peao 2, 6 casas para frente
+
+Coluna do peão movido: 0
+Posição dos peões: 
+Peão 1 pos 16 |Peão 2 pos 0 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 1 moveu o peao 2, 5 casas para frente
+
+Coluna do peão movido: 5
+
+---------------------------------------------------
+
+Turno do jogador 2
+
+
+Tirou 6
+
+Tirou 2
+Posição dos peões: 
+Peão 1 pos 18 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 1, 6 casas para frente
+
+Coluna do peão movido: 24
+Posição dos peões: 
+Peão 1 pos 24 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 1, 2 casas para frente
+
+Coluna do peão movido: 26
+
+---------------------------------------------------
+
+Turno do jogador 3
+
+
+Tirou 4
+Perdeu a vez
+
+---------------------------------------------------
+
+Turno do jogador 0
+
+
+Tirou 6
+
+Tirou 6
+
+Tirou 3
+Posição dos peões: 
+Peão 1 pos 9 |Peão 2 pos 10 |Peão 3 pos 0 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 2, 6 casas para frente
+
+Coluna do peão movido: 16
+Posição dos peões: 
+Peão 1 pos 9 |Peão 2 pos 16 |Peão 3 pos 0 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 3, 6 casas para frente
+
+Coluna do peão movido: 6
+Posição dos peões: 
+Peão 1 pos 9 |Peão 2 pos 16 |Peão 3 pos 6 |Peão 4 pos -1 |
+Jogador 0 moveu o peao 1, 3 casas para frente
+
+Coluna do peão movido: 12
+
+---------------------------------------------------
+
+Turno do jogador 1
+
+
+Tirou 6
+
+Tirou 4
+Posição dos peões: 
+Peão 1 pos 16 |Peão 2 pos 5 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 1 moveu o peao 3, 6 casas para frente
+
+Coluna do peão movido: 0
+Posição dos peões: 
+Peão 1 pos 16 |Peão 2 pos 5 |Peão 3 pos 0 |Peão 4 pos -1 |
+Jogador 1 moveu o peao 3, 4 casas para frente
+
+Coluna do peão movido: 4
+
+---------------------------------------------------
+
+Turno do jogador 2
+
+
+Tirou 6
+
+Tirou 6
+
+Tirou 3
+Posição dos peões: 
+Peão 1 pos 26 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 2, 6 casas para frente
+
+Coluna do peão movido: 0
+Posição dos peões: 
+Peão 1 pos 26 |Peão 2 pos 0 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 2, 6 casas para frente
+
+Coluna do peão movido: 6
+Posição dos peões: 
+Peão 1 pos 26 |Peão 2 pos 6 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 2 moveu o peao 2, 3 casas para frente
+
+Coluna do peão movido: 9
+
+---------------------------------------------------
+
+Turno do jogador 3
+
+
+Tirou 6
+
+Tirou 2
+Posição dos peões: 
+Peão 1 pos -1 |Peão 2 pos -1 |Peão 3 pos -1 |Peão 4 pos -1 |
+Jogador 3 moveu o peao 1, 6 casas para frente
+
+Coluna do peão movido: 0
+
+---------------------------------------------------
+Jogador 2 ganhou
+Fim de jogo
